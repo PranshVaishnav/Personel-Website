@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/PranshVaishnav/Personel-Website/issues"
   },
-  "homepage": "https://github.com/PranshVaishnav/Personel-Website#readme"
+  "homepage": "https://github.com/PranshVaishnav/Personel-Website#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
